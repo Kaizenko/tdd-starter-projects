@@ -1,5 +1,7 @@
 package com.kaizenko.vendingmachine;
 
-public class VendingMachine {
+import java.util.function.IntPredicate;
 
+public class VendingMachine {
+	
 }
